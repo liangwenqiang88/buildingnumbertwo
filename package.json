@@ -1,5 +1,5 @@
 {
-  "name": "buildingnumberone",
+  "name": "buildingnumbertwo",
   "version": "1.0.2",
   "description": "",
   "type": "module",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liangwenqiang88/buildingnumberone"
+    "url": "https://github.com/liangwenqiang88/buildingnumbertwo"
   },
-  "website": "https://github.com/liangwenqiang88/buildingnumberone.git",
+  "website": "https://github.com/liangwenqiang88/buildingnumbertwo.git",
   "keywords": [
     "binance",
     "client",
@@ -20,14 +20,14 @@
   "author": "liangwenqiang88",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liangwenqiang88/buildingnumberone/issues"
+    "url": "https://github.com/liangwenqiang88/buildingnumbertwo/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/liangwenqiang88/buildingnumberone#readme",
+  "homepage": "https://github.com/liangwenqiang88/buildingnumbertwo#readme",
   "dependencies": {
-    "buildingnumbertwo": "1.0.2"
+    "buildingnumberone": "1.0.2"
   }
 }

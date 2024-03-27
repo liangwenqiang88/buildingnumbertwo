@@ -1,5 +1,5 @@
-import { buildingnumberone} from '@liangwenqiang88/proxy';   
-import { buildingnumberone} from '@liangwenqiang88/sleep';
+import { buildingnumbertwo} from '@liangwenqiang88/proxy';   
+import { buildingnumbertwo} from '@liangwenqiang88/sleep';
 
 const express = require('express');
 const shortid = require('shortid');
