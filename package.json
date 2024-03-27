@@ -1,0 +1,33 @@
+{
+  "name": "buildingnumberone",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangwenqiang88/buildingnumberone"
+  },
+  "website": "https://github.com/liangwenqiang88/buildingnumberone.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "liangwenqiang88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangwenqiang88/buildingnumberone/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/liangwenqiang88/buildingnumberone#readme",
+  "dependencies": {
+    "buildingnumbertwo": "1.0.2"
+  }
+}
